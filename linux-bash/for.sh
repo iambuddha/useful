@@ -4,7 +4,7 @@ names=$@
 
 for name in $names
 do
-  if [ $name = "Andrius" ]
+  if [ $name = "John" ]
   then
     continue
   fi
